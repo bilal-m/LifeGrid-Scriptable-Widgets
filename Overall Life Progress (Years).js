@@ -6,7 +6,7 @@ widget.setPadding(16, 16, 16, 16);
 
 // --- User Details ---
 // Update this to your exact birthday
-const birthDate = new Date("1997-03-06"); 
+const birthDate = new Date("1990-01-01"); 
 const maxLifespan = 80;
 
 // --- Time Calculations ---
