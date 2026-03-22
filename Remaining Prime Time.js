@@ -5,7 +5,7 @@ widget.setPadding(12, 14, 12, 14);
 
 // --- User Details ---
 // Update this to your exact birthday (YYYY-MM-DD format)
-const birthDate = new Date("1997-03-06"); 
+const birthDate = new Date("1990-01-01"); 
 const primeEndAge = 45;
 
 // --- Time Calculations ---
