@@ -85,7 +85,7 @@ function drawGrid(total, currentIdx, cols, startHex, endHex) {
 // --- BUILD WIDGET UI ---
 
 // Title
-let titleText = widget.addText("What's left for " + year);
+let titleText = widget.addText("What's left of " + year);
 titleText.font = Font.boldSystemFont(12); // Reduced from 13
 titleText.textColor = new Color("#8e8e93");
 widget.addSpacer(6); // Reduced from 8
