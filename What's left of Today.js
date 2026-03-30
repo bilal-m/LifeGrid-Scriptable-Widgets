@@ -104,7 +104,7 @@ function drawGrid(total, currentIdx, cols, startHex, endHex, boxSize, gap) {
 
 // --- BUILD WIDGET UI ---
 
-let titleText = widget.addText(`What's left for (${formattedDate})`);
+let titleText = widget.addText(`What's left of (${formattedDate})`);
 titleText.font = Font.boldSystemFont(13);
 titleText.textColor = new Color("#8e8e93");
 widget.addSpacer(8);
